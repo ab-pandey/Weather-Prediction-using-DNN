@@ -1,0 +1,2 @@
+This folder contains saved models that were trained for each parameter with each parameter being treated as dependent variable.
+Dependency on rest other parameters was studied.
