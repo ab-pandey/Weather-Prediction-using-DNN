@@ -5,3 +5,8 @@ Two models were trained -
 2. A deep learning non-linear model with LeakyReLU - The results of Deep learning model is quite satisfying with RMSE for each parameter less than one.
 
 Both models were trained on dataset whose source is https://www.visualcrossing.com/ 
+
+Data set contains 12 quantitative parameters. Dependency of each parameter on rest 11 was studies in this model.
+
+Future Work - 1. Dependency of each parameter can be studied by sequentially removing one by one independent variables. This would help                    was to minimize our efforts in data collection as lesser number of data will have to be collected.
+              2. Prediction using time series analysis.
