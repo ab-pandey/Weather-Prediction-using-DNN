@@ -10,5 +10,7 @@ Data set contains 12 quantitative parameters. Dependency of each parameter on re
 
 Future Work - 1. Dependency of each parameter can be studied by sequentially removing one by one independent variables. This would help                    was to minimize our efforts in data collection as lesser number of data will have to be collected.
               2. Prediction using time series analysis.
+
+
 28/12/2019
 Time series prediction using LSTM has been carried out and can be seen in file "KochiWeatherPrediction_LSTM". RMSE obtained are at satisfactory level but any improvement will be welcomed. It an attempt for improvement, supervised timeseries analysis would be carried out next.
